@@ -10,7 +10,7 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal
 }
-let animal = 'dog'
+let animal = 'dog';
 function add2(n) {
   const two = 2
   return n + parseInt(two,10)
